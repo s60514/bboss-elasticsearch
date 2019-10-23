@@ -11,6 +11,10 @@ RestClientUtil and ConfigRestClientUtil have essentially the same API, with the 
 **RestClientUtil** directly executes the DSL defined in the code.
 
 **ConfigRestClientUtil** gets the DSL defined in the configuration file by the DSL name and executes it. 
+中文翻译：
+RestClientUtil和ConfigRestClientUtil具有基本相同的API，但有以下差异：
+RestClientUtil直接执行代码中定义的DSL。
+ConfigRestClientUtil获取由DSL名称在配置文件中定义的DSL并执行。
 
 # RestClientUtil example
 
